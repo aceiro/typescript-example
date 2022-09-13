@@ -1,0 +1,30 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "Type script API",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node ./out/index.js",
+    "format:checker": "prettier -c ./src",
+    "format:fix": "prettier -w ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/lodash": "^4.14.185",
+    "@types/request": "^2.48.8",
+    "@types/typescript": "^2.0.0",
+    "@types/winston": "^2.4.4",
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "typescript": "^4.8.3",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}

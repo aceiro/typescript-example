@@ -1,0 +1,157 @@
+{
+    "_id": 5270951,
+    "_login": "aceiro",
+    "_name": "Erik Aceiro Antonio @e2a",
+    "_repos": [
+        {
+            "name": "android-app-2020",
+            "fullName": "aceiro/android-app-2020",
+            "size": 155
+        },
+        {
+            "name": "android-credentials",
+            "fullName": "aceiro/android-credentials",
+            "size": 504
+        },
+        {
+            "name": "android-lifecycle",
+            "fullName": "aceiro/android-lifecycle",
+            "size": 3027
+        },
+        {
+            "name": "architecture-ref-card",
+            "fullName": "aceiro/architecture-ref-card",
+            "size": 1617
+        },
+        {
+            "name": "architecture-samples",
+            "fullName": "aceiro/architecture-samples",
+            "size": 12298
+        },
+        {
+            "name": "arquitetura-2020",
+            "fullName": "aceiro/arquitetura-2020",
+            "size": 829
+        },
+        {
+            "name": "asser-evol",
+            "fullName": "aceiro/asser-evol",
+            "size": 1538
+        },
+        {
+            "name": "asteroids",
+            "fullName": "aceiro/asteroids",
+            "size": 401
+        },
+        {
+            "name": "atm_2018",
+            "fullName": "aceiro/atm_2018",
+            "size": 1402
+        },
+        {
+            "name": "atm_2019",
+            "fullName": "aceiro/atm_2019",
+            "size": 5101
+        },
+        {
+            "name": "aws-iot-chat-example",
+            "fullName": "aceiro/aws-iot-chat-example",
+            "size": 10575
+        },
+        {
+            "name": "ChristBASHTree",
+            "fullName": "aceiro/ChristBASHTree",
+            "size": 196
+        },
+        {
+            "name": "coursera-webdevelopers",
+            "fullName": "aceiro/coursera-webdevelopers",
+            "size": 10841
+        },
+        {
+            "name": "curso_dot_net_2015",
+            "fullName": "aceiro/curso_dot_net_2015",
+            "size": 48497
+        },
+        {
+            "name": "CyclistsTrainingSpreadsheets",
+            "fullName": "aceiro/CyclistsTrainingSpreadsheets",
+            "size": 180
+        },
+        {
+            "name": "Design-Patterns-In-Kotlin",
+            "fullName": "aceiro/Design-Patterns-In-Kotlin",
+            "size": 234
+        },
+        {
+            "name": "diagrams",
+            "fullName": "aceiro/diagrams",
+            "size": 2
+        },
+        {
+            "name": "Dogs",
+            "fullName": "aceiro/Dogs",
+            "size": 476
+        },
+        {
+            "name": "dogs2021",
+            "fullName": "aceiro/dogs2021",
+            "size": 558
+        },
+        {
+            "name": "dojo",
+            "fullName": "aceiro/dojo",
+            "size": 18
+        },
+        {
+            "name": "eventosasser",
+            "fullName": "aceiro/eventosasser",
+            "size": 65601
+        },
+        {
+            "name": "fatec-dsw-2022",
+            "fullName": "aceiro/fatec-dsw-2022",
+            "size": 387
+        },
+        {
+            "name": "fatec-tec-2022",
+            "fullName": "aceiro/fatec-tec-2022",
+            "size": 725
+        },
+        {
+            "name": "ftpasser",
+            "fullName": "aceiro/ftpasser",
+            "size": 70001
+        },
+        {
+            "name": "GameMenu",
+            "fullName": "aceiro/GameMenu",
+            "size": 222
+        },
+        {
+            "name": "git-ref",
+            "fullName": "aceiro/git-ref",
+            "size": 4
+        },
+        {
+            "name": "homemade-machine-learning",
+            "fullName": "aceiro/homemade-machine-learning",
+            "size": 14937
+        },
+        {
+            "name": "hub-bessani",
+            "fullName": "aceiro/hub-bessani",
+            "size": 1767
+        },
+        {
+            "name": "java-projects-tutorials",
+            "fullName": "aceiro/java-projects-tutorials",
+            "size": 34900
+        },
+        {
+            "name": "JSFCrudApp",
+            "fullName": "aceiro/JSFCrudApp",
+            "size": 14220
+        }
+    ]
+}
